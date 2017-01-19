@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: DevOps-HandsOn-Fernando-Durier
+  host: DevOps-HandsOn-Fernando-Durier
+  disk_quota: 1024M
